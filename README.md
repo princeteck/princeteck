@@ -7,7 +7,7 @@ Flutter and Laravel Developer, Content Creator, and Gamer
 My Critical-Thinking and Curiosity are the key to creativity and solving problems that I am tasked to face. I always keep my mind cleared of assumptions, conclusions, and beliefs so that I am not just repeating past impressions.
 
 *   🌍  I'm based in India
-*   🚀  I'm currently working on [Credilio Pro](http://play.google.com/store/apps/details?id=com.credilio.credilio_advisor.prod&hl=en_IN&gl=US)
+*   🚀  I'm currently working on my Skillset
 *   🧠  I'm learning Python, DSA, Machine Learning, Business Ethics
 *   🤝  I'm open to collaborating on Open Source Projects
 *   ⚡  I'm working on open source UI kit for flutter, hope to finish it soon and it to be awesome 😎
